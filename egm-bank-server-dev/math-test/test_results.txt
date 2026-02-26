@@ -1,0 +1,8 @@
+
+Last Tested On: Tue Apr 29 2025 03:33:58 GMT+0530 (India Standard Time)
+Total Spins: 2100000
+Total Hits: 313880
+Total Amount Spent: 210000000
+Total Amount Won: 170822430
+Hit Probability (by Spins): 14.95%
+Hit Probability (by Amount): 81.34%

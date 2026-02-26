@@ -1,0 +1,17 @@
+{
+  "name": "egm-gateway-server",
+  "version": "1.0.0",
+  "description": "An API server for EGM",
+  "scripts": {
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nfc-pcsc": "^0.8.1",
+    "path": "^0.12.7",
+    "query-string": "^9.0.0",
+    "socket.io": "^4.7.5",
+    "ws": "^8.17.0"
+  },
+  "author": "Wilson Sam",
+  "license": "ISC"
+}

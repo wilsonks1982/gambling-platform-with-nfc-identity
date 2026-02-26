@@ -1,0 +1,10 @@
+"filename", "language", "JavaScript", "comment", "blank", "total"
+"/Users/whynew/0_Wildace/egm-bank-server/src/controllers/cageController.js", "JavaScript", 7, 0, 1, 8
+"/Users/whynew/0_Wildace/egm-bank-server/src/db/mongodb/models/station/index.js", "JavaScript", -15, 15, 0, 0
+"/Users/whynew/0_Wildace/egm-bank-server/src/db/mongodb/models/user/index.js", "JavaScript", -15, 15, 0, 0
+"/Users/whynew/0_Wildace/egm-bank-server/src/index.js", "JavaScript", 2, 0, 0, 2
+"/Users/whynew/0_Wildace/egm-bank-server/src/routes/cageRoute.js", "JavaScript", 7, 0, 0, 7
+"/Users/whynew/0_Wildace/egm-bank-server/src/services/cage-service/index.js", "JavaScript", 40, 0, 8, 48
+"/Users/whynew/0_Wildace/egm-bank-server/src/services/game-service/index.js", "JavaScript", 60, 3, 11, 74
+"/Users/whynew/0_Wildace/egm-bank-server/src/services/user-service/index.js", "JavaScript", 14, 0, 3, 17
+"Total", "-", 100, 33, 23, 156

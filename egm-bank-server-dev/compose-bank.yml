@@ -1,0 +1,11 @@
+services: # Different services that make up your application
+  egm_bank_service:
+    build: .
+    image: tykhegaming/egm-bank-server:1.0.0
+    container_name: egm_bank
+    env_file:
+      - path: ./.env
+        required: true # default
+    restart: always
+    ports:
+      - "9001:9001"

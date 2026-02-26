@@ -1,0 +1,2102 @@
+[
+  {
+    "spin": 5000,
+    "hitRate": 14.52,
+    "profitRate": 69.76
+  },
+  {
+    "spin": 10000,
+    "hitRate": 14.65,
+    "profitRate": 75.07
+  },
+  {
+    "spin": 15000,
+    "hitRate": 15.29,
+    "profitRate": 75.66
+  },
+  {
+    "spin": 20000,
+    "hitRate": 15.22,
+    "profitRate": 78.11
+  },
+  {
+    "spin": 25000,
+    "hitRate": 15.17,
+    "profitRate": 75.28
+  },
+  {
+    "spin": 30000,
+    "hitRate": 15.14,
+    "profitRate": 75.06
+  },
+  {
+    "spin": 35000,
+    "hitRate": 15.05,
+    "profitRate": 74.16
+  },
+  {
+    "spin": 40000,
+    "hitRate": 15.04,
+    "profitRate": 78.44
+  },
+  {
+    "spin": 45000,
+    "hitRate": 15.03,
+    "profitRate": 80.76
+  },
+  {
+    "spin": 50000,
+    "hitRate": 15.06,
+    "profitRate": 81.37
+  },
+  {
+    "spin": 55000,
+    "hitRate": 15.11,
+    "profitRate": 82.65
+  },
+  {
+    "spin": 60000,
+    "hitRate": 15.09,
+    "profitRate": 84.36
+  },
+  {
+    "spin": 65000,
+    "hitRate": 15.06,
+    "profitRate": 85.54
+  },
+  {
+    "spin": 70000,
+    "hitRate": 15.01,
+    "profitRate": 85.88
+  },
+  {
+    "spin": 75000,
+    "hitRate": 15.01,
+    "profitRate": 84.87
+  },
+  {
+    "spin": 80000,
+    "hitRate": 15.03,
+    "profitRate": 89.45
+  },
+  {
+    "spin": 85000,
+    "hitRate": 15.07,
+    "profitRate": 88.57
+  },
+  {
+    "spin": 90000,
+    "hitRate": 15.06,
+    "profitRate": 87.55
+  },
+  {
+    "spin": 95000,
+    "hitRate": 15.04,
+    "profitRate": 86.64
+  },
+  {
+    "spin": 100000,
+    "hitRate": 15.04,
+    "profitRate": 85.86
+  },
+  {
+    "spin": 105000,
+    "hitRate": 15.04,
+    "profitRate": 85.48
+  },
+  {
+    "spin": 110000,
+    "hitRate": 15.05,
+    "profitRate": 85.66
+  },
+  {
+    "spin": 115000,
+    "hitRate": 15.01,
+    "profitRate": 84.58
+  },
+  {
+    "spin": 120000,
+    "hitRate": 14.97,
+    "profitRate": 84.22
+  },
+  {
+    "spin": 125000,
+    "hitRate": 14.94,
+    "profitRate": 83.67
+  },
+  {
+    "spin": 130000,
+    "hitRate": 14.95,
+    "profitRate": 83.56
+  },
+  {
+    "spin": 135000,
+    "hitRate": 14.93,
+    "profitRate": 82.86
+  },
+  {
+    "spin": 140000,
+    "hitRate": 14.93,
+    "profitRate": 82.7
+  },
+  {
+    "spin": 145000,
+    "hitRate": 14.92,
+    "profitRate": 82.78
+  },
+  {
+    "spin": 150000,
+    "hitRate": 14.93,
+    "profitRate": 82.45
+  },
+  {
+    "spin": 155000,
+    "hitRate": 14.91,
+    "profitRate": 83.8
+  },
+  {
+    "spin": 160000,
+    "hitRate": 14.93,
+    "profitRate": 83.64
+  },
+  {
+    "spin": 165000,
+    "hitRate": 14.94,
+    "profitRate": 83.48
+  },
+  {
+    "spin": 170000,
+    "hitRate": 14.93,
+    "profitRate": 83.5
+  },
+  {
+    "spin": 175000,
+    "hitRate": 14.93,
+    "profitRate": 83.06
+  },
+  {
+    "spin": 180000,
+    "hitRate": 14.92,
+    "profitRate": 83.21
+  },
+  {
+    "spin": 185000,
+    "hitRate": 14.93,
+    "profitRate": 83.44
+  },
+  {
+    "spin": 190000,
+    "hitRate": 14.92,
+    "profitRate": 83.96
+  },
+  {
+    "spin": 195000,
+    "hitRate": 14.92,
+    "profitRate": 83.9
+  },
+  {
+    "spin": 200000,
+    "hitRate": 14.92,
+    "profitRate": 83.94
+  },
+  {
+    "spin": 205000,
+    "hitRate": 14.91,
+    "profitRate": 83.61
+  },
+  {
+    "spin": 210000,
+    "hitRate": 14.92,
+    "profitRate": 83.37
+  },
+  {
+    "spin": 215000,
+    "hitRate": 14.93,
+    "profitRate": 83.11
+  },
+  {
+    "spin": 220000,
+    "hitRate": 14.93,
+    "profitRate": 82.93
+  },
+  {
+    "spin": 225000,
+    "hitRate": 14.94,
+    "profitRate": 83.01
+  },
+  {
+    "spin": 230000,
+    "hitRate": 14.92,
+    "profitRate": 82.97
+  },
+  {
+    "spin": 235000,
+    "hitRate": 14.91,
+    "profitRate": 84.01
+  },
+  {
+    "spin": 240000,
+    "hitRate": 14.92,
+    "profitRate": 83.95
+  },
+  {
+    "spin": 245000,
+    "hitRate": 14.91,
+    "profitRate": 83.73
+  },
+  {
+    "spin": 250000,
+    "hitRate": 14.9,
+    "profitRate": 83.56
+  },
+  {
+    "spin": 255000,
+    "hitRate": 14.9,
+    "profitRate": 83.42
+  },
+  {
+    "spin": 260000,
+    "hitRate": 14.91,
+    "profitRate": 83.49
+  },
+  {
+    "spin": 265000,
+    "hitRate": 14.9,
+    "profitRate": 83.51
+  },
+  {
+    "spin": 270000,
+    "hitRate": 14.91,
+    "profitRate": 83.37
+  },
+  {
+    "spin": 275000,
+    "hitRate": 14.93,
+    "profitRate": 83.31
+  },
+  {
+    "spin": 280000,
+    "hitRate": 14.94,
+    "profitRate": 83.1
+  },
+  {
+    "spin": 285000,
+    "hitRate": 14.95,
+    "profitRate": 83.38
+  },
+  {
+    "spin": 290000,
+    "hitRate": 14.95,
+    "profitRate": 83.84
+  },
+  {
+    "spin": 295000,
+    "hitRate": 14.95,
+    "profitRate": 84.07
+  },
+  {
+    "spin": 300000,
+    "hitRate": 14.95,
+    "profitRate": 83.9
+  },
+  {
+    "spin": 305000,
+    "hitRate": 14.97,
+    "profitRate": 83.66
+  },
+  {
+    "spin": 310000,
+    "hitRate": 14.97,
+    "profitRate": 83.39
+  },
+  {
+    "spin": 315000,
+    "hitRate": 14.95,
+    "profitRate": 83.29
+  },
+  {
+    "spin": 320000,
+    "hitRate": 14.96,
+    "profitRate": 82.95
+  },
+  {
+    "spin": 325000,
+    "hitRate": 14.95,
+    "profitRate": 83.1
+  },
+  {
+    "spin": 330000,
+    "hitRate": 14.97,
+    "profitRate": 83.13
+  },
+  {
+    "spin": 335000,
+    "hitRate": 14.97,
+    "profitRate": 82.96
+  },
+  {
+    "spin": 340000,
+    "hitRate": 14.96,
+    "profitRate": 83.41
+  },
+  {
+    "spin": 345000,
+    "hitRate": 14.96,
+    "profitRate": 83.24
+  },
+  {
+    "spin": 350000,
+    "hitRate": 14.97,
+    "profitRate": 83.09
+  },
+  {
+    "spin": 355000,
+    "hitRate": 14.98,
+    "profitRate": 83.16
+  },
+  {
+    "spin": 360000,
+    "hitRate": 14.99,
+    "profitRate": 83.16
+  },
+  {
+    "spin": 365000,
+    "hitRate": 15,
+    "profitRate": 83.13
+  },
+  {
+    "spin": 370000,
+    "hitRate": 15.01,
+    "profitRate": 83.56
+  },
+  {
+    "spin": 375000,
+    "hitRate": 15,
+    "profitRate": 83.32
+  },
+  {
+    "spin": 380000,
+    "hitRate": 15,
+    "profitRate": 83.39
+  },
+  {
+    "spin": 385000,
+    "hitRate": 14.99,
+    "profitRate": 83.21
+  },
+  {
+    "spin": 390000,
+    "hitRate": 14.99,
+    "profitRate": 83.4
+  },
+  {
+    "spin": 395000,
+    "hitRate": 14.99,
+    "profitRate": 83.19
+  },
+  {
+    "spin": 400000,
+    "hitRate": 14.98,
+    "profitRate": 83.24
+  },
+  {
+    "spin": 405000,
+    "hitRate": 14.98,
+    "profitRate": 83.04
+  },
+  {
+    "spin": 410000,
+    "hitRate": 14.97,
+    "profitRate": 82.98
+  },
+  {
+    "spin": 415000,
+    "hitRate": 14.96,
+    "profitRate": 82.78
+  },
+  {
+    "spin": 420000,
+    "hitRate": 14.96,
+    "profitRate": 82.86
+  },
+  {
+    "spin": 425000,
+    "hitRate": 14.96,
+    "profitRate": 82.9
+  },
+  {
+    "spin": 430000,
+    "hitRate": 14.95,
+    "profitRate": 82.8
+  },
+  {
+    "spin": 435000,
+    "hitRate": 14.95,
+    "profitRate": 82.84
+  },
+  {
+    "spin": 440000,
+    "hitRate": 14.95,
+    "profitRate": 82.99
+  },
+  {
+    "spin": 445000,
+    "hitRate": 14.96,
+    "profitRate": 82.89
+  },
+  {
+    "spin": 450000,
+    "hitRate": 14.96,
+    "profitRate": 82.89
+  },
+  {
+    "spin": 455000,
+    "hitRate": 14.96,
+    "profitRate": 82.94
+  },
+  {
+    "spin": 460000,
+    "hitRate": 14.96,
+    "profitRate": 82.95
+  },
+  {
+    "spin": 465000,
+    "hitRate": 14.96,
+    "profitRate": 82.8
+  },
+  {
+    "spin": 470000,
+    "hitRate": 14.96,
+    "profitRate": 82.73
+  },
+  {
+    "spin": 475000,
+    "hitRate": 14.96,
+    "profitRate": 82.55
+  },
+  {
+    "spin": 480000,
+    "hitRate": 14.95,
+    "profitRate": 82.46
+  },
+  {
+    "spin": 485000,
+    "hitRate": 14.96,
+    "profitRate": 82.52
+  },
+  {
+    "spin": 490000,
+    "hitRate": 14.95,
+    "profitRate": 82.39
+  },
+  {
+    "spin": 495000,
+    "hitRate": 14.95,
+    "profitRate": 82.63
+  },
+  {
+    "spin": 500000,
+    "hitRate": 14.95,
+    "profitRate": 82.65
+  },
+  {
+    "spin": 505000,
+    "hitRate": 14.95,
+    "profitRate": 82.55
+  },
+  {
+    "spin": 510000,
+    "hitRate": 14.96,
+    "profitRate": 82.59
+  },
+  {
+    "spin": 515000,
+    "hitRate": 14.96,
+    "profitRate": 82.5
+  },
+  {
+    "spin": 520000,
+    "hitRate": 14.96,
+    "profitRate": 82.42
+  },
+  {
+    "spin": 525000,
+    "hitRate": 14.97,
+    "profitRate": 82.41
+  },
+  {
+    "spin": 530000,
+    "hitRate": 14.96,
+    "profitRate": 82.3
+  },
+  {
+    "spin": 535000,
+    "hitRate": 14.96,
+    "profitRate": 82.16
+  },
+  {
+    "spin": 540000,
+    "hitRate": 14.96,
+    "profitRate": 82.38
+  },
+  {
+    "spin": 545000,
+    "hitRate": 14.96,
+    "profitRate": 82.44
+  },
+  {
+    "spin": 550000,
+    "hitRate": 14.95,
+    "profitRate": 82.39
+  },
+  {
+    "spin": 555000,
+    "hitRate": 14.95,
+    "profitRate": 82.48
+  },
+  {
+    "spin": 560000,
+    "hitRate": 14.95,
+    "profitRate": 82.32
+  },
+  {
+    "spin": 565000,
+    "hitRate": 14.95,
+    "profitRate": 82.24
+  },
+  {
+    "spin": 570000,
+    "hitRate": 14.95,
+    "profitRate": 82.29
+  },
+  {
+    "spin": 575000,
+    "hitRate": 14.94,
+    "profitRate": 82.2
+  },
+  {
+    "spin": 580000,
+    "hitRate": 14.94,
+    "profitRate": 82.19
+  },
+  {
+    "spin": 585000,
+    "hitRate": 14.95,
+    "profitRate": 82.1
+  },
+  {
+    "spin": 590000,
+    "hitRate": 14.95,
+    "profitRate": 82
+  },
+  {
+    "spin": 595000,
+    "hitRate": 14.96,
+    "profitRate": 82.01
+  },
+  {
+    "spin": 600000,
+    "hitRate": 14.96,
+    "profitRate": 81.88
+  },
+  {
+    "spin": 605000,
+    "hitRate": 14.96,
+    "profitRate": 81.82
+  },
+  {
+    "spin": 610000,
+    "hitRate": 14.96,
+    "profitRate": 81.89
+  },
+  {
+    "spin": 615000,
+    "hitRate": 14.95,
+    "profitRate": 81.81
+  },
+  {
+    "spin": 620000,
+    "hitRate": 14.95,
+    "profitRate": 81.72
+  },
+  {
+    "spin": 625000,
+    "hitRate": 14.96,
+    "profitRate": 81.63
+  },
+  {
+    "spin": 630000,
+    "hitRate": 14.95,
+    "profitRate": 81.59
+  },
+  {
+    "spin": 635000,
+    "hitRate": 14.95,
+    "profitRate": 81.51
+  },
+  {
+    "spin": 640000,
+    "hitRate": 14.95,
+    "profitRate": 81.37
+  },
+  {
+    "spin": 645000,
+    "hitRate": 14.95,
+    "profitRate": 81.38
+  },
+  {
+    "spin": 650000,
+    "hitRate": 14.95,
+    "profitRate": 81.25
+  },
+  {
+    "spin": 655000,
+    "hitRate": 14.94,
+    "profitRate": 81.3
+  },
+  {
+    "spin": 660000,
+    "hitRate": 14.94,
+    "profitRate": 81.18
+  },
+  {
+    "spin": 665000,
+    "hitRate": 14.94,
+    "profitRate": 81.09
+  },
+  {
+    "spin": 670000,
+    "hitRate": 14.93,
+    "profitRate": 81
+  },
+  {
+    "spin": 675000,
+    "hitRate": 14.94,
+    "profitRate": 81.1
+  },
+  {
+    "spin": 680000,
+    "hitRate": 14.93,
+    "profitRate": 81.07
+  },
+  {
+    "spin": 685000,
+    "hitRate": 14.93,
+    "profitRate": 81.08
+  },
+  {
+    "spin": 690000,
+    "hitRate": 14.93,
+    "profitRate": 80.96
+  },
+  {
+    "spin": 695000,
+    "hitRate": 14.93,
+    "profitRate": 81.07
+  },
+  {
+    "spin": 700000,
+    "hitRate": 14.93,
+    "profitRate": 81.28
+  },
+  {
+    "spin": 705000,
+    "hitRate": 14.92,
+    "profitRate": 81.25
+  },
+  {
+    "spin": 710000,
+    "hitRate": 14.92,
+    "profitRate": 81.2
+  },
+  {
+    "spin": 715000,
+    "hitRate": 14.92,
+    "profitRate": 81.8
+  },
+  {
+    "spin": 720000,
+    "hitRate": 14.92,
+    "profitRate": 81.78
+  },
+  {
+    "spin": 725000,
+    "hitRate": 14.93,
+    "profitRate": 81.87
+  },
+  {
+    "spin": 730000,
+    "hitRate": 14.92,
+    "profitRate": 81.84
+  },
+  {
+    "spin": 735000,
+    "hitRate": 14.92,
+    "profitRate": 81.85
+  },
+  {
+    "spin": 740000,
+    "hitRate": 14.92,
+    "profitRate": 82.02
+  },
+  {
+    "spin": 745000,
+    "hitRate": 14.92,
+    "profitRate": 81.96
+  },
+  {
+    "spin": 750000,
+    "hitRate": 14.92,
+    "profitRate": 81.87
+  },
+  {
+    "spin": 755000,
+    "hitRate": 14.92,
+    "profitRate": 81.9
+  },
+  {
+    "spin": 760000,
+    "hitRate": 14.92,
+    "profitRate": 81.88
+  },
+  {
+    "spin": 765000,
+    "hitRate": 14.92,
+    "profitRate": 81.96
+  },
+  {
+    "spin": 770000,
+    "hitRate": 14.91,
+    "profitRate": 81.87
+  },
+  {
+    "spin": 775000,
+    "hitRate": 14.92,
+    "profitRate": 81.86
+  },
+  {
+    "spin": 780000,
+    "hitRate": 14.91,
+    "profitRate": 82.04
+  },
+  {
+    "spin": 785000,
+    "hitRate": 14.91,
+    "profitRate": 81.94
+  },
+  {
+    "spin": 790000,
+    "hitRate": 14.92,
+    "profitRate": 81.87
+  },
+  {
+    "spin": 795000,
+    "hitRate": 14.91,
+    "profitRate": 81.98
+  },
+  {
+    "spin": 800000,
+    "hitRate": 14.91,
+    "profitRate": 81.81
+  },
+  {
+    "spin": 805000,
+    "hitRate": 14.91,
+    "profitRate": 82.37
+  },
+  {
+    "spin": 810000,
+    "hitRate": 14.91,
+    "profitRate": 82.27
+  },
+  {
+    "spin": 815000,
+    "hitRate": 14.91,
+    "profitRate": 82.19
+  },
+  {
+    "spin": 820000,
+    "hitRate": 14.91,
+    "profitRate": 82.38
+  },
+  {
+    "spin": 825000,
+    "hitRate": 14.91,
+    "profitRate": 82.26
+  },
+  {
+    "spin": 830000,
+    "hitRate": 14.91,
+    "profitRate": 82.24
+  },
+  {
+    "spin": 835000,
+    "hitRate": 14.91,
+    "profitRate": 82.28
+  },
+  {
+    "spin": 840000,
+    "hitRate": 14.91,
+    "profitRate": 82.24
+  },
+  {
+    "spin": 845000,
+    "hitRate": 14.91,
+    "profitRate": 82.21
+  },
+  {
+    "spin": 850000,
+    "hitRate": 14.9,
+    "profitRate": 82.09
+  },
+  {
+    "spin": 855000,
+    "hitRate": 14.9,
+    "profitRate": 82.2
+  },
+  {
+    "spin": 860000,
+    "hitRate": 14.9,
+    "profitRate": 82.17
+  },
+  {
+    "spin": 865000,
+    "hitRate": 14.9,
+    "profitRate": 82.14
+  },
+  {
+    "spin": 870000,
+    "hitRate": 14.9,
+    "profitRate": 82.12
+  },
+  {
+    "spin": 875000,
+    "hitRate": 14.91,
+    "profitRate": 82.08
+  },
+  {
+    "spin": 880000,
+    "hitRate": 14.91,
+    "profitRate": 82.06
+  },
+  {
+    "spin": 885000,
+    "hitRate": 14.91,
+    "profitRate": 81.97
+  },
+  {
+    "spin": 890000,
+    "hitRate": 14.92,
+    "profitRate": 81.93
+  },
+  {
+    "spin": 895000,
+    "hitRate": 14.91,
+    "profitRate": 81.91
+  },
+  {
+    "spin": 900000,
+    "hitRate": 14.91,
+    "profitRate": 81.86
+  },
+  {
+    "spin": 905000,
+    "hitRate": 14.91,
+    "profitRate": 81.77
+  },
+  {
+    "spin": 910000,
+    "hitRate": 14.91,
+    "profitRate": 81.69
+  },
+  {
+    "spin": 915000,
+    "hitRate": 14.91,
+    "profitRate": 81.6
+  },
+  {
+    "spin": 920000,
+    "hitRate": 14.91,
+    "profitRate": 81.57
+  },
+  {
+    "spin": 925000,
+    "hitRate": 14.91,
+    "profitRate": 81.49
+  },
+  {
+    "spin": 930000,
+    "hitRate": 14.91,
+    "profitRate": 81.48
+  },
+  {
+    "spin": 935000,
+    "hitRate": 14.91,
+    "profitRate": 81.59
+  },
+  {
+    "spin": 940000,
+    "hitRate": 14.91,
+    "profitRate": 81.56
+  },
+  {
+    "spin": 945000,
+    "hitRate": 14.91,
+    "profitRate": 81.53
+  },
+  {
+    "spin": 950000,
+    "hitRate": 14.91,
+    "profitRate": 81.49
+  },
+  {
+    "spin": 955000,
+    "hitRate": 14.91,
+    "profitRate": 81.45
+  },
+  {
+    "spin": 960000,
+    "hitRate": 14.91,
+    "profitRate": 81.37
+  },
+  {
+    "spin": 965000,
+    "hitRate": 14.91,
+    "profitRate": 81.36
+  },
+  {
+    "spin": 970000,
+    "hitRate": 14.91,
+    "profitRate": 81.45
+  },
+  {
+    "spin": 975000,
+    "hitRate": 14.91,
+    "profitRate": 81.42
+  },
+  {
+    "spin": 980000,
+    "hitRate": 14.92,
+    "profitRate": 81.45
+  },
+  {
+    "spin": 985000,
+    "hitRate": 14.92,
+    "profitRate": 81.5
+  },
+  {
+    "spin": 990000,
+    "hitRate": 14.92,
+    "profitRate": 81.45
+  },
+  {
+    "spin": 995000,
+    "hitRate": 14.92,
+    "profitRate": 82.03
+  },
+  {
+    "spin": 1000000,
+    "hitRate": 14.92,
+    "profitRate": 81.98
+  },
+  {
+    "spin": 1005000,
+    "hitRate": 14.93,
+    "profitRate": 82.04
+  },
+  {
+    "spin": 1010000,
+    "hitRate": 14.92,
+    "profitRate": 81.96
+  },
+  {
+    "spin": 1015000,
+    "hitRate": 14.92,
+    "profitRate": 81.87
+  },
+  {
+    "spin": 1020000,
+    "hitRate": 14.92,
+    "profitRate": 81.82
+  },
+  {
+    "spin": 1025000,
+    "hitRate": 14.92,
+    "profitRate": 81.76
+  },
+  {
+    "spin": 1030000,
+    "hitRate": 14.92,
+    "profitRate": 81.73
+  },
+  {
+    "spin": 1035000,
+    "hitRate": 14.92,
+    "profitRate": 81.77
+  },
+  {
+    "spin": 1040000,
+    "hitRate": 14.92,
+    "profitRate": 81.72
+  },
+  {
+    "spin": 1045000,
+    "hitRate": 14.92,
+    "profitRate": 81.69
+  },
+  {
+    "spin": 1050000,
+    "hitRate": 14.92,
+    "profitRate": 81.65
+  },
+  {
+    "spin": 1055000,
+    "hitRate": 14.92,
+    "profitRate": 81.72
+  },
+  {
+    "spin": 1060000,
+    "hitRate": 14.92,
+    "profitRate": 81.65
+  },
+  {
+    "spin": 1065000,
+    "hitRate": 14.92,
+    "profitRate": 81.64
+  },
+  {
+    "spin": 1070000,
+    "hitRate": 14.92,
+    "profitRate": 81.69
+  },
+  {
+    "spin": 1075000,
+    "hitRate": 14.92,
+    "profitRate": 81.62
+  },
+  {
+    "spin": 1080000,
+    "hitRate": 14.92,
+    "profitRate": 81.63
+  },
+  {
+    "spin": 1085000,
+    "hitRate": 14.92,
+    "profitRate": 81.66
+  },
+  {
+    "spin": 1090000,
+    "hitRate": 14.92,
+    "profitRate": 81.68
+  },
+  {
+    "spin": 1095000,
+    "hitRate": 14.92,
+    "profitRate": 81.67
+  },
+  {
+    "spin": 1100000,
+    "hitRate": 14.92,
+    "profitRate": 81.64
+  },
+  {
+    "spin": 1105000,
+    "hitRate": 14.92,
+    "profitRate": 81.58
+  },
+  {
+    "spin": 1110000,
+    "hitRate": 14.92,
+    "profitRate": 81.51
+  },
+  {
+    "spin": 1115000,
+    "hitRate": 14.93,
+    "profitRate": 81.45
+  },
+  {
+    "spin": 1120000,
+    "hitRate": 14.93,
+    "profitRate": 81.44
+  },
+  {
+    "spin": 1125000,
+    "hitRate": 14.93,
+    "profitRate": 81.42
+  },
+  {
+    "spin": 1130000,
+    "hitRate": 14.93,
+    "profitRate": 81.37
+  },
+  {
+    "spin": 1135000,
+    "hitRate": 14.93,
+    "profitRate": 81.34
+  },
+  {
+    "spin": 1140000,
+    "hitRate": 14.93,
+    "profitRate": 81.38
+  },
+  {
+    "spin": 1145000,
+    "hitRate": 14.93,
+    "profitRate": 81.32
+  },
+  {
+    "spin": 1150000,
+    "hitRate": 14.93,
+    "profitRate": 81.3
+  },
+  {
+    "spin": 1155000,
+    "hitRate": 14.93,
+    "profitRate": 81.28
+  },
+  {
+    "spin": 1160000,
+    "hitRate": 14.93,
+    "profitRate": 81.22
+  },
+  {
+    "spin": 1165000,
+    "hitRate": 14.93,
+    "profitRate": 81.22
+  },
+  {
+    "spin": 1170000,
+    "hitRate": 14.93,
+    "profitRate": 81.15
+  },
+  {
+    "spin": 1175000,
+    "hitRate": 14.93,
+    "profitRate": 81.11
+  },
+  {
+    "spin": 1180000,
+    "hitRate": 14.93,
+    "profitRate": 81.08
+  },
+  {
+    "spin": 1185000,
+    "hitRate": 14.93,
+    "profitRate": 81.07
+  },
+  {
+    "spin": 1190000,
+    "hitRate": 14.93,
+    "profitRate": 81.05
+  },
+  {
+    "spin": 1195000,
+    "hitRate": 14.93,
+    "profitRate": 81.03
+  },
+  {
+    "spin": 1200000,
+    "hitRate": 14.94,
+    "profitRate": 81.06
+  },
+  {
+    "spin": 1205000,
+    "hitRate": 14.94,
+    "profitRate": 81.02
+  },
+  {
+    "spin": 1210000,
+    "hitRate": 14.94,
+    "profitRate": 80.99
+  },
+  {
+    "spin": 1215000,
+    "hitRate": 14.94,
+    "profitRate": 81.1
+  },
+  {
+    "spin": 1220000,
+    "hitRate": 14.94,
+    "profitRate": 81.14
+  },
+  {
+    "spin": 1225000,
+    "hitRate": 14.94,
+    "profitRate": 81.22
+  },
+  {
+    "spin": 1230000,
+    "hitRate": 14.93,
+    "profitRate": 81.19
+  },
+  {
+    "spin": 1235000,
+    "hitRate": 14.93,
+    "profitRate": 81.12
+  },
+  {
+    "spin": 1240000,
+    "hitRate": 14.93,
+    "profitRate": 81.07
+  },
+  {
+    "spin": 1245000,
+    "hitRate": 14.93,
+    "profitRate": 81.06
+  },
+  {
+    "spin": 1250000,
+    "hitRate": 14.94,
+    "profitRate": 81.02
+  },
+  {
+    "spin": 1255000,
+    "hitRate": 14.94,
+    "profitRate": 81.01
+  },
+  {
+    "spin": 1260000,
+    "hitRate": 14.94,
+    "profitRate": 80.99
+  },
+  {
+    "spin": 1265000,
+    "hitRate": 14.94,
+    "profitRate": 81
+  },
+  {
+    "spin": 1270000,
+    "hitRate": 14.94,
+    "profitRate": 80.95
+  },
+  {
+    "spin": 1275000,
+    "hitRate": 14.94,
+    "profitRate": 80.92
+  },
+  {
+    "spin": 1280000,
+    "hitRate": 14.94,
+    "profitRate": 80.87
+  },
+  {
+    "spin": 1285000,
+    "hitRate": 14.94,
+    "profitRate": 80.94
+  },
+  {
+    "spin": 1290000,
+    "hitRate": 14.94,
+    "profitRate": 80.89
+  },
+  {
+    "spin": 1295000,
+    "hitRate": 14.93,
+    "profitRate": 80.88
+  },
+  {
+    "spin": 1300000,
+    "hitRate": 14.93,
+    "profitRate": 80.91
+  },
+  {
+    "spin": 1305000,
+    "hitRate": 14.93,
+    "profitRate": 80.95
+  },
+  {
+    "spin": 1310000,
+    "hitRate": 14.93,
+    "profitRate": 80.91
+  },
+  {
+    "spin": 1315000,
+    "hitRate": 14.93,
+    "profitRate": 80.88
+  },
+  {
+    "spin": 1320000,
+    "hitRate": 14.93,
+    "profitRate": 80.87
+  },
+  {
+    "spin": 1325000,
+    "hitRate": 14.93,
+    "profitRate": 80.93
+  },
+  {
+    "spin": 1330000,
+    "hitRate": 14.93,
+    "profitRate": 80.88
+  },
+  {
+    "spin": 1335000,
+    "hitRate": 14.93,
+    "profitRate": 80.87
+  },
+  {
+    "spin": 1340000,
+    "hitRate": 14.93,
+    "profitRate": 80.85
+  },
+  {
+    "spin": 1345000,
+    "hitRate": 14.93,
+    "profitRate": 80.82
+  },
+  {
+    "spin": 1350000,
+    "hitRate": 14.93,
+    "profitRate": 81.1
+  },
+  {
+    "spin": 1355000,
+    "hitRate": 14.93,
+    "profitRate": 81.07
+  },
+  {
+    "spin": 1360000,
+    "hitRate": 14.93,
+    "profitRate": 81.22
+  },
+  {
+    "spin": 1365000,
+    "hitRate": 14.93,
+    "profitRate": 81.2
+  },
+  {
+    "spin": 1370000,
+    "hitRate": 14.93,
+    "profitRate": 81.18
+  },
+  {
+    "spin": 1375000,
+    "hitRate": 14.93,
+    "profitRate": 81.12
+  },
+  {
+    "spin": 1380000,
+    "hitRate": 14.93,
+    "profitRate": 81.15
+  },
+  {
+    "spin": 1385000,
+    "hitRate": 14.93,
+    "profitRate": 81.15
+  },
+  {
+    "spin": 1390000,
+    "hitRate": 14.93,
+    "profitRate": 81.09
+  },
+  {
+    "spin": 1395000,
+    "hitRate": 14.93,
+    "profitRate": 81.03
+  },
+  {
+    "spin": 1400000,
+    "hitRate": 14.93,
+    "profitRate": 81.06
+  },
+  {
+    "spin": 1405000,
+    "hitRate": 14.93,
+    "profitRate": 81.02
+  },
+  {
+    "spin": 1410000,
+    "hitRate": 14.92,
+    "profitRate": 81.03
+  },
+  {
+    "spin": 1415000,
+    "hitRate": 14.93,
+    "profitRate": 81.14
+  },
+  {
+    "spin": 1420000,
+    "hitRate": 14.93,
+    "profitRate": 81.19
+  },
+  {
+    "spin": 1425000,
+    "hitRate": 14.93,
+    "profitRate": 81.21
+  },
+  {
+    "spin": 1430000,
+    "hitRate": 14.93,
+    "profitRate": 81.19
+  },
+  {
+    "spin": 1435000,
+    "hitRate": 14.93,
+    "profitRate": 81.4
+  },
+  {
+    "spin": 1440000,
+    "hitRate": 14.93,
+    "profitRate": 81.37
+  },
+  {
+    "spin": 1445000,
+    "hitRate": 14.93,
+    "profitRate": 81.51
+  },
+  {
+    "spin": 1450000,
+    "hitRate": 14.93,
+    "profitRate": 81.51
+  },
+  {
+    "spin": 1455000,
+    "hitRate": 14.93,
+    "profitRate": 81.62
+  },
+  {
+    "spin": 1460000,
+    "hitRate": 14.93,
+    "profitRate": 81.66
+  },
+  {
+    "spin": 1465000,
+    "hitRate": 14.93,
+    "profitRate": 81.6
+  },
+  {
+    "spin": 1470000,
+    "hitRate": 14.93,
+    "profitRate": 81.56
+  },
+  {
+    "spin": 1475000,
+    "hitRate": 14.93,
+    "profitRate": 81.59
+  },
+  {
+    "spin": 1480000,
+    "hitRate": 14.93,
+    "profitRate": 81.63
+  },
+  {
+    "spin": 1485000,
+    "hitRate": 14.94,
+    "profitRate": 81.69
+  },
+  {
+    "spin": 1490000,
+    "hitRate": 14.93,
+    "profitRate": 81.66
+  },
+  {
+    "spin": 1495000,
+    "hitRate": 14.93,
+    "profitRate": 81.59
+  },
+  {
+    "spin": 1500000,
+    "hitRate": 14.93,
+    "profitRate": 81.59
+  },
+  {
+    "spin": 1505000,
+    "hitRate": 14.93,
+    "profitRate": 81.55
+  },
+  {
+    "spin": 1510000,
+    "hitRate": 14.93,
+    "profitRate": 81.55
+  },
+  {
+    "spin": 1515000,
+    "hitRate": 14.93,
+    "profitRate": 81.5
+  },
+  {
+    "spin": 1520000,
+    "hitRate": 14.94,
+    "profitRate": 81.51
+  },
+  {
+    "spin": 1525000,
+    "hitRate": 14.93,
+    "profitRate": 81.56
+  },
+  {
+    "spin": 1530000,
+    "hitRate": 14.93,
+    "profitRate": 81.53
+  },
+  {
+    "spin": 1535000,
+    "hitRate": 14.94,
+    "profitRate": 81.67
+  },
+  {
+    "spin": 1540000,
+    "hitRate": 14.93,
+    "profitRate": 81.64
+  },
+  {
+    "spin": 1545000,
+    "hitRate": 14.93,
+    "profitRate": 81.62
+  },
+  {
+    "spin": 1550000,
+    "hitRate": 14.94,
+    "profitRate": 81.58
+  },
+  {
+    "spin": 1555000,
+    "hitRate": 14.94,
+    "profitRate": 81.53
+  },
+  {
+    "spin": 1560000,
+    "hitRate": 14.94,
+    "profitRate": 81.55
+  },
+  {
+    "spin": 1565000,
+    "hitRate": 14.94,
+    "profitRate": 81.61
+  },
+  {
+    "spin": 1570000,
+    "hitRate": 14.94,
+    "profitRate": 81.59
+  },
+  {
+    "spin": 1575000,
+    "hitRate": 14.93,
+    "profitRate": 81.55
+  },
+  {
+    "spin": 1580000,
+    "hitRate": 14.93,
+    "profitRate": 81.68
+  },
+  {
+    "spin": 1585000,
+    "hitRate": 14.94,
+    "profitRate": 81.64
+  },
+  {
+    "spin": 1590000,
+    "hitRate": 14.93,
+    "profitRate": 81.65
+  },
+  {
+    "spin": 1595000,
+    "hitRate": 14.93,
+    "profitRate": 81.61
+  },
+  {
+    "spin": 1600000,
+    "hitRate": 14.94,
+    "profitRate": 81.68
+  },
+  {
+    "spin": 1605000,
+    "hitRate": 14.93,
+    "profitRate": 81.7
+  },
+  {
+    "spin": 1610000,
+    "hitRate": 14.94,
+    "profitRate": 81.69
+  },
+  {
+    "spin": 1615000,
+    "hitRate": 14.94,
+    "profitRate": 81.68
+  },
+  {
+    "spin": 1620000,
+    "hitRate": 14.94,
+    "profitRate": 81.73
+  },
+  {
+    "spin": 1625000,
+    "hitRate": 14.94,
+    "profitRate": 81.68
+  },
+  {
+    "spin": 1630000,
+    "hitRate": 14.93,
+    "profitRate": 81.66
+  },
+  {
+    "spin": 1635000,
+    "hitRate": 14.94,
+    "profitRate": 81.69
+  },
+  {
+    "spin": 1640000,
+    "hitRate": 14.94,
+    "profitRate": 81.7
+  },
+  {
+    "spin": 1645000,
+    "hitRate": 14.94,
+    "profitRate": 81.66
+  },
+  {
+    "spin": 1650000,
+    "hitRate": 14.94,
+    "profitRate": 81.65
+  },
+  {
+    "spin": 1655000,
+    "hitRate": 14.94,
+    "profitRate": 81.65
+  },
+  {
+    "spin": 1660000,
+    "hitRate": 14.94,
+    "profitRate": 81.68
+  },
+  {
+    "spin": 1665000,
+    "hitRate": 14.94,
+    "profitRate": 81.65
+  },
+  {
+    "spin": 1670000,
+    "hitRate": 14.94,
+    "profitRate": 81.62
+  },
+  {
+    "spin": 1675000,
+    "hitRate": 14.94,
+    "profitRate": 81.63
+  },
+  {
+    "spin": 1680000,
+    "hitRate": 14.94,
+    "profitRate": 81.61
+  },
+  {
+    "spin": 1685000,
+    "hitRate": 14.94,
+    "profitRate": 81.63
+  },
+  {
+    "spin": 1690000,
+    "hitRate": 14.94,
+    "profitRate": 81.62
+  },
+  {
+    "spin": 1695000,
+    "hitRate": 14.95,
+    "profitRate": 81.59
+  },
+  {
+    "spin": 1700000,
+    "hitRate": 14.95,
+    "profitRate": 81.62
+  },
+  {
+    "spin": 1705000,
+    "hitRate": 14.95,
+    "profitRate": 81.56
+  },
+  {
+    "spin": 1710000,
+    "hitRate": 14.95,
+    "profitRate": 81.55
+  },
+  {
+    "spin": 1715000,
+    "hitRate": 14.95,
+    "profitRate": 81.53
+  },
+  {
+    "spin": 1720000,
+    "hitRate": 14.95,
+    "profitRate": 81.56
+  },
+  {
+    "spin": 1725000,
+    "hitRate": 14.95,
+    "profitRate": 81.64
+  },
+  {
+    "spin": 1730000,
+    "hitRate": 14.95,
+    "profitRate": 81.61
+  },
+  {
+    "spin": 1735000,
+    "hitRate": 14.95,
+    "profitRate": 81.63
+  },
+  {
+    "spin": 1740000,
+    "hitRate": 14.95,
+    "profitRate": 81.7
+  },
+  {
+    "spin": 1745000,
+    "hitRate": 14.95,
+    "profitRate": 81.65
+  },
+  {
+    "spin": 1750000,
+    "hitRate": 14.94,
+    "profitRate": 81.68
+  },
+  {
+    "spin": 1755000,
+    "hitRate": 14.94,
+    "profitRate": 81.7
+  },
+  {
+    "spin": 1760000,
+    "hitRate": 14.94,
+    "profitRate": 81.68
+  },
+  {
+    "spin": 1765000,
+    "hitRate": 14.94,
+    "profitRate": 81.7
+  },
+  {
+    "spin": 1770000,
+    "hitRate": 14.94,
+    "profitRate": 81.68
+  },
+  {
+    "spin": 1775000,
+    "hitRate": 14.94,
+    "profitRate": 81.64
+  },
+  {
+    "spin": 1780000,
+    "hitRate": 14.94,
+    "profitRate": 81.66
+  },
+  {
+    "spin": 1785000,
+    "hitRate": 14.95,
+    "profitRate": 81.7
+  },
+  {
+    "spin": 1790000,
+    "hitRate": 14.95,
+    "profitRate": 81.67
+  },
+  {
+    "spin": 1795000,
+    "hitRate": 14.95,
+    "profitRate": 81.77
+  },
+  {
+    "spin": 1800000,
+    "hitRate": 14.95,
+    "profitRate": 81.76
+  },
+  {
+    "spin": 1805000,
+    "hitRate": 14.95,
+    "profitRate": 81.78
+  },
+  {
+    "spin": 1810000,
+    "hitRate": 14.95,
+    "profitRate": 81.98
+  },
+  {
+    "spin": 1815000,
+    "hitRate": 14.95,
+    "profitRate": 81.99
+  },
+  {
+    "spin": 1820000,
+    "hitRate": 14.95,
+    "profitRate": 81.98
+  },
+  {
+    "spin": 1825000,
+    "hitRate": 14.95,
+    "profitRate": 82.03
+  },
+  {
+    "spin": 1830000,
+    "hitRate": 14.95,
+    "profitRate": 82.05
+  },
+  {
+    "spin": 1835000,
+    "hitRate": 14.95,
+    "profitRate": 82.01
+  },
+  {
+    "spin": 1840000,
+    "hitRate": 14.95,
+    "profitRate": 81.96
+  },
+  {
+    "spin": 1845000,
+    "hitRate": 14.95,
+    "profitRate": 81.94
+  },
+  {
+    "spin": 1850000,
+    "hitRate": 14.95,
+    "profitRate": 81.87
+  },
+  {
+    "spin": 1855000,
+    "hitRate": 14.95,
+    "profitRate": 81.82
+  },
+  {
+    "spin": 1860000,
+    "hitRate": 14.94,
+    "profitRate": 81.81
+  },
+  {
+    "spin": 1865000,
+    "hitRate": 14.95,
+    "profitRate": 81.79
+  },
+  {
+    "spin": 1870000,
+    "hitRate": 14.95,
+    "profitRate": 81.75
+  },
+  {
+    "spin": 1875000,
+    "hitRate": 14.94,
+    "profitRate": 81.73
+  },
+  {
+    "spin": 1880000,
+    "hitRate": 14.94,
+    "profitRate": 81.75
+  },
+  {
+    "spin": 1885000,
+    "hitRate": 14.94,
+    "profitRate": 81.75
+  },
+  {
+    "spin": 1890000,
+    "hitRate": 14.94,
+    "profitRate": 81.72
+  },
+  {
+    "spin": 1895000,
+    "hitRate": 14.94,
+    "profitRate": 81.71
+  },
+  {
+    "spin": 1900000,
+    "hitRate": 14.94,
+    "profitRate": 81.68
+  },
+  {
+    "spin": 1905000,
+    "hitRate": 14.94,
+    "profitRate": 81.7
+  },
+  {
+    "spin": 1910000,
+    "hitRate": 14.94,
+    "profitRate": 81.73
+  },
+  {
+    "spin": 1915000,
+    "hitRate": 14.94,
+    "profitRate": 81.71
+  },
+  {
+    "spin": 1920000,
+    "hitRate": 14.94,
+    "profitRate": 81.71
+  },
+  {
+    "spin": 1925000,
+    "hitRate": 14.94,
+    "profitRate": 81.72
+  },
+  {
+    "spin": 1930000,
+    "hitRate": 14.94,
+    "profitRate": 81.69
+  },
+  {
+    "spin": 1935000,
+    "hitRate": 14.94,
+    "profitRate": 81.66
+  },
+  {
+    "spin": 1940000,
+    "hitRate": 14.94,
+    "profitRate": 81.63
+  },
+  {
+    "spin": 1945000,
+    "hitRate": 14.94,
+    "profitRate": 81.6
+  },
+  {
+    "spin": 1950000,
+    "hitRate": 14.94,
+    "profitRate": 81.61
+  },
+  {
+    "spin": 1955000,
+    "hitRate": 14.94,
+    "profitRate": 81.6
+  },
+  {
+    "spin": 1960000,
+    "hitRate": 14.94,
+    "profitRate": 81.56
+  },
+  {
+    "spin": 1965000,
+    "hitRate": 14.94,
+    "profitRate": 81.51
+  },
+  {
+    "spin": 1970000,
+    "hitRate": 14.94,
+    "profitRate": 81.48
+  },
+  {
+    "spin": 1975000,
+    "hitRate": 14.94,
+    "profitRate": 81.53
+  },
+  {
+    "spin": 1980000,
+    "hitRate": 14.94,
+    "profitRate": 81.49
+  },
+  {
+    "spin": 1985000,
+    "hitRate": 14.94,
+    "profitRate": 81.47
+  },
+  {
+    "spin": 1990000,
+    "hitRate": 14.94,
+    "profitRate": 81.43
+  },
+  {
+    "spin": 1995000,
+    "hitRate": 14.94,
+    "profitRate": 81.4
+  },
+  {
+    "spin": 2000000,
+    "hitRate": 14.94,
+    "profitRate": 81.38
+  },
+  {
+    "spin": 2005000,
+    "hitRate": 14.94,
+    "profitRate": 81.37
+  },
+  {
+    "spin": 2010000,
+    "hitRate": 14.94,
+    "profitRate": 81.35
+  },
+  {
+    "spin": 2015000,
+    "hitRate": 14.94,
+    "profitRate": 81.32
+  },
+  {
+    "spin": 2020000,
+    "hitRate": 14.94,
+    "profitRate": 81.28
+  },
+  {
+    "spin": 2025000,
+    "hitRate": 14.94,
+    "profitRate": 81.3
+  },
+  {
+    "spin": 2030000,
+    "hitRate": 14.94,
+    "profitRate": 81.27
+  },
+  {
+    "spin": 2035000,
+    "hitRate": 14.94,
+    "profitRate": 81.27
+  },
+  {
+    "spin": 2040000,
+    "hitRate": 14.94,
+    "profitRate": 81.24
+  },
+  {
+    "spin": 2045000,
+    "hitRate": 14.94,
+    "profitRate": 81.23
+  },
+  {
+    "spin": 2050000,
+    "hitRate": 14.94,
+    "profitRate": 81.26
+  },
+  {
+    "spin": 2055000,
+    "hitRate": 14.94,
+    "profitRate": 81.22
+  },
+  {
+    "spin": 2060000,
+    "hitRate": 14.94,
+    "profitRate": 81.38
+  },
+  {
+    "spin": 2065000,
+    "hitRate": 14.94,
+    "profitRate": 81.36
+  },
+  {
+    "spin": 2070000,
+    "hitRate": 14.94,
+    "profitRate": 81.34
+  },
+  {
+    "spin": 2075000,
+    "hitRate": 14.94,
+    "profitRate": 81.39
+  },
+  {
+    "spin": 2080000,
+    "hitRate": 14.94,
+    "profitRate": 81.38
+  },
+  {
+    "spin": 2085000,
+    "hitRate": 14.94,
+    "profitRate": 81.35
+  },
+  {
+    "spin": 2090000,
+    "hitRate": 14.95,
+    "profitRate": 81.38
+  },
+  {
+    "spin": 2095000,
+    "hitRate": 14.95,
+    "profitRate": 81.38
+  },
+  {
+    "spin": 2100000,
+    "hitRate": 14.95,
+    "profitRate": 81.34
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "uid": "637b2a0a",
+    "role": "player",
+    "nickname": "Ravi",
+    "firstName": "Ravi",
+    "lastName": "Gurram",
+    "wallet": 200000,
+    "pin": 1234,
+    "isPlaying": false
+  },
+  {
+    "id": 2,
+    "uid": "c37bcc08",
+    "role": "player",
+    "nickname": "Vijay",
+    "firstName": "Vijay",
+    "lastName": "Chandran",
+    "wallet": 200000,
+    "pin": 1234,
+    "isPlaying": false
+  },
+  {
+    "id": 3,
+    "uid": "737a9908",
+    "role": "player",
+    "nickname": "Joy",
+    "firstName": "Joy",
+    "lastName": "Kumar",
+    "wallet": 2500000,
+    "pin": 1234,
+    "isPlaying": false
+  },
+  {
+    "id": 4,
+    "uid": "13db1e0a",
+    "role": "player",
+    "nickname": "Naveen K",
+    "firstName": "Naveen",
+    "lastName": "Kalal",
+    "wallet": 1000000,
+    "pin": 1234,
+    "isPlaying": false
+  },
+  {
+    "id": 5,
+    "uid": "73b8d008",
+    "role": "Admin",
+    "nickname": "Wilson",
+    "firstName": "Wilson",
+    "lastName": "Sam",
+    "wallet": 0,
+    "pin": 1234,
+    "isPlaying": false
+  },
+  {
+    "id": 6,
+    "uid": "23869508",
+    "role": "player",
+    "nickname": "Mona",
+    "firstName": "Monika",
+    "lastName": "Kumari",
+    "wallet": 500000,
+    "pin": 1234,
+    "isPlaying": false
+  },
+  {
+    "id": 7,
+    "uid": "3387740a",
+    "role": "player",
+    "nickname": "Dileep",
+    "firstName": "Dileep",
+    "lastName": "Kumar",
+    "wallet": 700000,
+    "pin": 1234,
+    "isPlaying": false
+  },
+  {
+    "id": 8,
+    "uid": "136cab08",
+    "role": "player",
+    "nickname": "Shyam",
+    "firstName": "Shyam",
+    "lastName": "Ramji",
+    "wallet": 2000000,
+    "pin": 1234,
+    "isPlaying": false
+  },
+  {
+    "id": 9,
+    "uid": "c32f1f0a",
+    "role": "player",
+    "nickname": "Prajwal",
+    "firstName": "Prajwal",
+    "lastName": "K",
+    "wallet": 250000,
+    "pin": 1234,
+    "isPlaying": false
+  }
+]

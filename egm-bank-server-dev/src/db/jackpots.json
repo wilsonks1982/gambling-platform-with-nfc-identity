@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "JD",
+    "currentAmount": 250000,
+    "baseAmount": 250000,
+    "incrementRate": 0.005,
+    "isActive": true
+  }
+]
